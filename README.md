@@ -11,4 +11,5 @@ Original Website
 https://tobyfox.itch.io/deltarune
 
 2/10/25 Update
-Everything is a uploaded. Next step is to compile some of the file to WebAssembly (.wasmb) so that the software would run in broswer as it would on an OS.
+Everything is a uploaded. Next step is to compile some of the file to WebAssembly (.wasmb) and Emscripten (Emcc) and so that the software would run in broswer as it would on an OS.
+
